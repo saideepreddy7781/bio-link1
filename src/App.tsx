@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Instagram, Book, Video, Code, Briefcase, GraduationCap, Brain, Link2, ExternalLink, Github, Youtube, Linkedin } from 'lucide-react';
+import { Instagram, Book, Video, Code, Briefcase, ExternalLink, Youtube, Linkedin } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 interface Resource {
